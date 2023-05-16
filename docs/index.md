@@ -9,7 +9,8 @@ Except where otherwise noted, this document is licensed under a
 # Bottom of the Rabbit-Hole #
 
 Congratulations, you reached the bottom of the rabbit-hole! Welcome to
-@lepus2589's cozy home. What wonders might be discovered here?
+[@lepus2589](https://github.com/lepus2589)'s cozy home. What wonders might be
+discovered here?
 
 ## About ##
 
