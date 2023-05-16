@@ -1,0 +1,93 @@
+<!---
+Source code of @lepus2589's GitHub pages profile page
+Copyright (C) 2023  Tim Haase
+
+Except where otherwise noted, this document is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+--->
+
+# Online Identity #
+
+## Keyoxide Signature Profile ##
+
+Paste the following signature profile at [keyoxide.org/sig](https://keyoxide.org/sig):
+
+```test
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+This is a signature profile for Tim Haase <timhaase@gmx.net>
+
+It can be obtained from https://lepus2598.github.io/assets/keyoxide/profile.txt.asc
+
+Verify this profile at https://keyoxide.org/sig
+
+proof=https://gist.github.com/lepus2589/df162f1d55d4312760e3ef88d285dd2b
+proof=https://gitlab.com/lepus2589/gitlab_proof
+proof=https://stackoverflow.com/users/7476042/lepus2589
+proof=https://twitter.com/lepus2589/status/1658594196574314497
+proof=https://fosstodon.org/@lepus2589
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSISm5RwsBLMQV0o2cDOHg/OmM13QUCZGQEUAAKCRADOHg/OmM1
+3d8PAP43kkn9PEvITS/iKn8F8DxEzANeYGBNjC4lfm982qC3YgD/SAbx84Siln78
+DRaBQOVzeuYeQimbL/X8GTd8+klfaw4=
+=pL4U
+-----END PGP SIGNATURE-----
+```
+
+[Download signature profile](./assets/keyoxide/profile.txt.asc)
+
+## OpenPGP ##
+
+### Key Details ###
+
+__User ID__: `Tim Haase <timhaase@gmx.net>`
+
+__Fingerprint__: `3A83 E3B0 0DDA 3CB8 EF1A 37F2 3675 6E10 0785 3009`
+
+__Valid__: from `2020-05-13` to `2026-01-01`
+
+__Type__: 256 bit EdDSA/ECDH Curve25519 OpenPGP Key
+
+__Usage__: Certification, Signing, Encryption, Authentication
+
+### Download ###
+
+- ASCII Armored: [`3A83 E3B0 0DDA 3CB8 EF1A 37F2 3675 6E10 0785 3009`](./assets/pgp/3A83E3B00DDA3CB8EF1A37F236756E1007853009)
+
+### Keyservers ###
+
+- __keys.openpgp.org__: [`3A83 E3B0 0DDA 3CB8 EF1A 37F2 3675 6E10 0785 3009`](https://keys.openpgp.org/vks/v1/by-fingerprint/3A83E3B00DDA3CB8EF1A37F236756E1007853009)
+
+### Plaintext ###
+
+```text
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEXrvvRxYJKwYBBAHaRw8BAQdAqxEGSORV4Tzj+vOTuff0fZnyMi04M1tD9BDr
+mbxeLWS0HFRpbSBIYWFzZSA8dGltaGFhc2VAZ214Lm5ldD6InwQTFgoARwIbAQIe
+AQIXgAsLCQ0KCAwHCwQDAQYVCgkICwMEFgMCAQIZARYhBDqD47AN2jy47xo38jZ1
+bhAHhTAJBQJkNpixBQkKmcm+AAoJEDZ1bhAHhTAJZvoBAOWnbQhcKH+iUXFacGm7
+sCmdyoYJ9IVYbAT8Kr2qVYv+AQDsXmodxDle9NCY1CYQnyosOkuijyPEIR8R4rPu
+AJcpDLQgVGltIEhhYXNlIDx0aW0uaGFhc2VAYWVpLm1wZy5kZT6InAQTFgoARAIb
+AQsLCQ0KCAwHCwQDAQYVCgkICwMEFgMCAQIeAQIXgBYhBDqD47AN2jy47xo38jZ1
+bhAHhTAJBQJkNpjHBQkKmcm+AAoJEDZ1bhAHhTAJv0cA/iFj2A2kr3lN8qAgMIfP
+MdTOVT8tlhCNCWhPqN2w0Z5hAQCOEXLDBmVHCmRE9lGHYo13xe+Dv9jLb9bhkoYM
+6TM4BbgzBF678AQWCSsGAQQB2kcPAQEHQNpcJG18CwtCnterbs1vFLBKvVlktS+a
+1bvd7GA9Gag8iPUEGBYKACYCGwIWIQQ6g+OwDdo8uO8aN/I2dW4QB4UwCQUCZDaY
+9AUJCpnJAQCBdiAEGRYKAB0WIQSISm5RwsBLMQV0o2cDOHg/OmM13QUCXrvwBAAK
+CRADOHg/OmM13V7fAQClbCSO0RQZ/sEGyhs2VgJSLH4nj4EaRhSiotDNlcHSvAEA
+wQPNa+RaKNKhPTZj/4jiMS8n206aQ0Bw1l47qLuUAgUJEDZ1bhAHhTAJzAoA/2bt
+zDGl96hWrtFbscs6JdFV96dsO95rXjVO6UX+Pc9wAP9MCVTN0oMXCiRsJgrZwt0u
+PFtC97r2JLiI7JyO229DDrg4BF678EASCisGAQQBl1UBBQEBB0AE9L051eNAziRw
+vPNW0i2bTgp4FrLkV0CQ+z/itRdXLgMBCAeIfgQYFgoAJgIbDBYhBDqD47AN2jy4
+7xo38jZ1bhAHhTAJBQJkNpj1BQkKmcjFAAoJEDZ1bhAHhTAJQooBANJkZ8cTyx/h
+dWMxJr3W7N1ZxI16ovsFyjMq585ODdmKAP4oVLSBwlnuIUpjHo7hpcaBC5yuMvOc
+1Y8yd4rMX3IXA7gzBF678FYWCSsGAQQB2kcPAQEHQCScIkJbEonEMfBsjei0D5r7
+hJmWsHFHIvWG+NnyTTLOiH4EGBYKACYCGyAWIQQ6g+OwDdo8uO8aN/I2dW4QB4Uw
+CQUCZDaY9gUJCpnIrwAKCRA2dW4QB4UwCT09AP9WDGSZOFNjd9Ug3DWQLQ8xYSJD
+x2JCKsqWA7+0bzTO6wD/VnU2NlMcKLWkQD4HfHSfnyCpJq1fMJzNZUD9u8eU0QU=
+=lQIi
+-----END PGP PUBLIC KEY BLOCK-----
+```

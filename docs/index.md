@@ -18,11 +18,6 @@ Husband, father of two, professional software developer, Open Source enthusiast.
 
 Some info on hares: [Lepus](https://de.wikipedia.org/wiki/Echte_Hasen)
 
-## OpenPGP Certificate ##
+## Online Identity ##
 
-This is my current OpenPGP certificate:
-[`3A83E3B00DDA3CB8EF1A37F236756E1007853009`](https://keys.openpgp.org/vks/v1/by-fingerprint/3A83E3B00DDA3CB8EF1A37F236756E1007853009)
-
-There is also a copy available for download here, which might have more
-information in it (e. g. third party certifications etc.):
-[`3A83E3B00DDA3CB8EF1A37F236756E1007853009`](./assets/pgp/3A83E3B00DDA3CB8EF1A37F236756E1007853009)
+Here, you can find my [OpenPGP certificate and Keyoxide profile](./pgp.md).
