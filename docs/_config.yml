@@ -17,6 +17,9 @@ plugins:
 
 timezone: Europe/Berlin
 
+include: 
+  - .well-known
+
 exclude:
   - LICENSE
   - README.md
