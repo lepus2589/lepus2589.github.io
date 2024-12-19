@@ -20,4 +20,4 @@ Some info on hares: [Lepus](https://de.wikipedia.org/wiki/Echte_Hasen)
 
 ## Online Identity ##
 
-Here, you can find my [OpenPGP certificate and Keyoxide profile](./pgp.md).
+Here, you can find my [OpenPGP certificate and Keyoxide ASP profile](./pgp.md).

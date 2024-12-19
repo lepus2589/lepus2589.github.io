@@ -10,6 +10,6 @@ Except where otherwise noted, this document is licensed under a
 
 This project contains the source code for
 [@lepus2589](https://github.com/lepus2589)'s web presence. This is where I
-publish my PGP keys and keyoxide profiles, among other things.
+publish my PGP keys and Keyoxide ASP profiles, among other things.
 
 [&rarr; Go down the rabbit-hole](https://lepus2589.github.io/)
