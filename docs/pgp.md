@@ -10,7 +10,7 @@ Except where otherwise noted, this document is licensed under a
 
 ## Ariadne Signature Profile ##
 
-[aspe:lepus2589.github.io:MIHOPTYRVRSOLJBRXGXGVYU6VU](https://keyoxide.org/aspe:lepus2589.github.io:MIHOPTYRVRSOLJBRXGXGVYU6VU):
+[aspe:lepus2589.github.io:MIHOPTYRVRSOLJBRXGXGVYU6VU](https://keyoxide.org/aspe:lepus2589.github.io:MIHOPTYRVRSOLJBRXGXGVYU6VU)
 
 [Download raw ASP](./.well-known/aspe/id/MIHOPTYRVRSOLJBRXGXGVYU6VU)
 
