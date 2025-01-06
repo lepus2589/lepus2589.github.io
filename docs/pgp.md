@@ -1,6 +1,6 @@
 <!---
 Source code of @lepus2589's GitHub pages profile page
-Copyright (C) 2023  Tim Haase
+Copyright (C) 2025  Tim Kaune
 
 Except where otherwise noted, this document is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
